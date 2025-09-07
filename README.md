@@ -208,13 +208,13 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 #### SAWTOOTH WAVE OUTPUT:
 
-<img width="646" height="460" alt="image" src="https://github.com/user-attachments/assets/33646b8f-c30a-4f3c-a564-153fd4d8e5fd" />
+<img width="546" height="360" alt="image" src="https://github.com/user-attachments/assets/33646b8f-c30a-4f3c-a564-153fd4d8e5fd" />
 
 ---
 
 #### SQUARE WAVE OUTPUT:
 
-<img width="646" height="460" alt="image" src="https://github.com/user-attachments/assets/2f1a0a61-cfcf-4726-a251-a61464e30585" />
+<img width="546" height="360" alt="image" src="https://github.com/user-attachments/assets/2f1a0a61-cfcf-4726-a251-a61464e30585" />
 
 ---
 
